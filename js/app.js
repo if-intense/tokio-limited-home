@@ -28,7 +28,7 @@ var vm = new Vue({
       },
     ],
     
-    message2: "強く、美しく、しなやかに、<br class='br_on500'>髪がよみがえる実感",
+    message2: "TOKIOの<br class='br_on500'>内部補修効果はそのままに<br>更なるキューティクルケアに特化させる",
   },
 });
 
@@ -38,7 +38,7 @@ var vm = new Vue({
     // h2
     text1: "週<span>2</span>回、<span>月</span>曜日と<span>木</span>曜日の使用で<br class='br_on500'>効果実感！",
 
-    text5: 'まずは週<span>2</span>回<br>TOKIO HOMEをお試しください。',
+    text5: 'まずは週<span>2</span>回<br>TOKIO LIMITED HOMEをお試しください。',
     // h3
     text2: "<strong>おうちでサロンケア</strong><br>TOKIOインカラミトリートメントの<br><span>効果持続</span>が<span>最大化</span>します。",
 
@@ -48,7 +48,7 @@ var vm = new Vue({
     // h5
     text4: "TOKIOインカラミサロントリートメント<br class='br_on500'>【4番】と同じ成分",
 
-    text6: '「インカラミ効果の持続」<br>その理由は簡単!!<br>サロンで使用するトリートメントと<br class="br_on500">同じ成分を使用した<br class="br_on500">「集中ケアパック」だから！',
+    text6: 'サロンでしか受けることができない<br>「TOKIOインカラミLIMITED」と<br>同じ成分を使用した<br class="br_on500">「集中ケアパック」！',
 
     routineDays: [
       {weekday: '月曜日', routine: 'フローラルの香りで気分を上げる！'},
@@ -111,7 +111,7 @@ var vm = new Vue({
         {
             id:2,
             img: 'images/tokio-home_002.png',
-            body: '手のひらに3センチ程スライム状のHOMEを出してから',
+            body: '10円玉大暗いの量を目安にして、スライム状のHOMEを手のひらに出してます。',
             alt: "TOKIO HOMEを手に",
         },
         {
@@ -123,7 +123,7 @@ var vm = new Vue({
         {
             id:4,
             img: 'images/tokio-home_004.png',
-            body: '5分ほど放置して流します<br><span>※タオルで巻いたり、シャワーキャップをかぶることで質感UPを狙えます。</span> ',
+            body: '5分ほど放置して流します<br><span>※塗布後にクシで髪全体をとかしてもらうと馴染みが更に良くなり、質感が際立ちます。</span> ',
             alt: "TOKIO HOMEを放置",
         },
       ]
