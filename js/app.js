@@ -168,7 +168,7 @@ var vm = new Vue({
     topMessage: '週2回のTOKIO HOMEと毎日の<br>TOKIO IE<br class="br_on375">インカラミシャンプートリートメントで<br>自分史上最高の美髪を手に入れましょう！',
     images: [
       {imgURL: 'images/tokio_bg001.png', alt: 'TOKIO インカラミ'},
-      {imgURL: 'images/tokio_bg002.png', alt: 'TOKIO インカラミ'},
+      // {imgURL: 'images/tokio_bg002.png', alt: 'TOKIO インカラミ'},
     ]
   }
 });
