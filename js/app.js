@@ -13,21 +13,21 @@ var vm = new Vue({
         subtitle2: "インカラミ",
         text: "美しい髪に必要不可欠なタンパク質を新しく形成する業界初の反応技術。",
       },
-      
+
       {
         subtitle: "毛髪強度回復",
         subtitle2: "140%",
         text: "インカラミ効果の強度回復でカラーの色持ちスタイリングのしやすさ向上。",
       },
-      
+
       {
         subtitle: "ノーベル賞受賞成分",
         subtitle2: "フラーレン",
         text: "活性酵素を除去する高い抗酸化力を持ちインカラミ効果の持続力をアップ。",
-        
+
       },
     ],
-    
+
     message2: "TOKIOの<br class='br_on500'>内部補修効果はそのままに<br>更なるキューティクルケアに特化させる",
   },
 });
@@ -112,19 +112,19 @@ var vm = new Vue({
             id:2,
             img: 'images/tokio-home_002.png',
             body: '10円玉大暗いの量を目安にして、スライム状のHOMEを手のひらに出してます。',
-            alt: "TOKIO HOMEを手に",
+            alt: "LIMITED HOMEを手に",
         },
         {
             id:3,
-            img: 'images/tokio-home_003.png',
+            img: 'images/tokio-home_003-1.png',
             body: 'クリーム状に白くなるまでしっかり伸ばしてから、中間から毛先中心に馴染ませます。',
-            alt: "TOKIO HOMEをクリーム状に",
+            alt: "LIMITED HOMEをクリーム状に",
         },
         {
             id:4,
             img: 'images/tokio-home_004.png',
             body: '5分ほど放置して流します<br><span>※塗布後にクシで髪全体をとかしてもらうと馴染みが更に良くなり、質感が際立ちます。</span> ',
-            alt: "TOKIO HOMEを放置",
+            alt: "LIMITED HOMEを放置",
         },
       ]
     }
@@ -146,7 +146,7 @@ var vm = new Vue({
           text: 'カミスマビューティーサロン予約サイト',
         }
       ]
-     
+
   }
 });
 
