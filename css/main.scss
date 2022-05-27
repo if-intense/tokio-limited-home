@@ -45,9 +45,9 @@ S .col-center {
     box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.33);
     padding:20px 0;
     z-index: 1200;
-    
+
     // width:100%;
-    
+
         a {
             color: #fff;
         }
@@ -375,7 +375,7 @@ S .col-center {
                 // padding:10px;
 
                 margin: 2vh auto;
-                
+
             }
             .bg {
                 background: linear-gradient(0deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.8) 100%),
@@ -413,7 +413,7 @@ S .col-center {
                     // text-transform: uppercase;
                     font-style: italic;
                 }
-                h2 {    
+                h2 {
                     font-size: 1.25em;
                     line-height: 2em;
                     text-align: center;
@@ -539,14 +539,14 @@ S .col-center {
                 margin-left: 20px;
                 font-size: 1.5em;
             }
-            
+
             .product-info {
                 // width: 95%;
                 margin: 0 auto;
                 padding: 20px;
-                
+
                 .points {
-                    
+
                     .part {
                         margin-bottom: -10vh;
                         &:nth-last-child(1) {
@@ -559,7 +559,7 @@ S .col-center {
                             background-color: transparent;
                             color: #222;
                             text-align: center;
-    
+
                             &:after {
                                 display: block;
                                 padding-bottom: 100%;
@@ -572,7 +572,7 @@ S .col-center {
                                 box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.33);
                             }
                         }
-    
+
                         .circle__inner {
                             position: absolute;
                             top: 0;
@@ -581,13 +581,13 @@ S .col-center {
                             width: 100%;
                             height: 100%;
                         }
-    
+
                         .circle__wrapper {
                             display: table;
                             width: 100%;
                             height: 100%;
                         }
-    
+
                         .circle__content {
                             display: table-cell;
                             padding: 1em;
@@ -706,7 +706,7 @@ S .col-center {
                 // text-transform: uppercase;
                 font-style: italic;
             }
-            h2 {    
+            h2 {
                 font-size: 1.25em;
                 line-height: 2em;
                 text-align: center;
@@ -721,7 +721,7 @@ S .col-center {
         .steps {
             margin: 0vh auto;
             width: 100%;
-            max-width: 560px;
+            max-width: 584px;
             // background:#4f4f4f;
             padding: 20px 10px;
             &:nth-child(even) {
@@ -944,7 +944,7 @@ background: linear-gradient(180deg, rgba(223,247,246,1) 0%, rgba(0,159,149,1) 10
             }
             h4.strengthen {
                 background:#fff;
-                
+
                 box-shadow: 1px 3px 6px rgb(109, 99, 94);
                 line-height: 2em;
                 span {
@@ -1232,6 +1232,20 @@ background: linear-gradient(180deg, rgba(223,247,246,1) 0%, rgba(0,159,149,1) 10
             h3 {
                 font-size: 1.5em;
             }
+            .steps {
+              .inner {
+                .text-area {
+                  .text-top {
+                    h5 {
+                      font-size: 1em;
+                      span {
+                        font-size: 2em;
+                      }
+                    }
+                  }
+                }
+              }
+            }
         }
         // .sect09 {
         //     .container {
@@ -1312,7 +1326,7 @@ background: linear-gradient(180deg, rgba(223,247,246,1) 0%, rgba(0,159,149,1) 10
             }
             .steps {
                 margin-bottom: 20px;
-                
+
                 .inner {
                     .text-area {
                         .text-top {
@@ -1363,7 +1377,7 @@ background: linear-gradient(180deg, rgba(223,247,246,1) 0%, rgba(0,159,149,1) 10
         }
         .sect04 {
             .steps {
-               
+
                 .inner {
                     .text-area {
                         .text-top {
@@ -1445,6 +1459,11 @@ background: linear-gradient(180deg, rgba(223,247,246,1) 0%, rgba(0,159,149,1) 10
                         }
                     }
                 }
+                .strip {
+                  h2 {
+                    font-size: 1em;
+                  }
+                }
             }
         }
         .sect04 {
@@ -1459,6 +1478,9 @@ background: linear-gradient(180deg, rgba(223,247,246,1) 0%, rgba(0,159,149,1) 10
                 }
                 h3 {
                     font-size: 1.25em;
+                }
+                h4.strengthen {
+                  font-size: 1em;
                 }
             }
         }

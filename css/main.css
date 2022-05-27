@@ -52,7 +52,7 @@ S .col-center {
 }
 
 .top-banner {
-  height: calc(100vh - $headerHeight);
+  height: calc(100vh - 80px);
 }
 .top-banner .inner {
   width: 100%;
@@ -295,7 +295,7 @@ S .col-center {
   margin: 4vh auto;
   width: 100%;
   max-width: 900px;
-  padding-top: calc(515 / 900);
+  padding-top: 0.5722222222;
 }
 .main .sect01 .sect01-03 h2 {
   text-align: center;
@@ -624,7 +624,7 @@ S .col-center {
 .main .sect04 .steps {
   margin: 0vh auto;
   width: 100%;
-  max-width: 560px;
+  max-width: 584px;
   padding: 20px 10px;
 }
 .main .sect04 .steps:nth-child(even) {
@@ -1049,6 +1049,12 @@ S .col-center {
   .main .sect04 h3 {
     font-size: 1.5em;
   }
+  .main .sect04 .steps .inner .text-area .text-top h5 {
+    font-size: 1em;
+  }
+  .main .sect04 .steps .inner .text-area .text-top h5 span {
+    font-size: 2em;
+  }
   .main .sect10 .section10-01 .pics {
     width: 100%;
   }
@@ -1160,6 +1166,9 @@ S .col-center {
   .main .sect02 .sect02-01 .midDiv .days h4 {
     font-size: 1.2em;
   }
+  .main .sect02 .sect02-01 .strip h2 {
+    font-size: 1em;
+  }
   .main .sect04 h3 {
     font-size: 1.25em;
   }
@@ -1168,6 +1177,9 @@ S .col-center {
   }
   .main .sect09 .container h3 {
     font-size: 1.25em;
+  }
+  .main .sect09 .container h4.strengthen {
+    font-size: 1em;
   }
   .main .sect10 .section10-01 h3 {
     font-size: 1em;
