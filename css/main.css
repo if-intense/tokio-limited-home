@@ -53,7 +53,7 @@ S .col-center {
 
 .top-banner {
   height: calc(100vh - 80px);
-  background: #0d688c;
+  background: #00394f;
 }
 .top-banner .inner {
   width: 100%;
@@ -1019,6 +1019,9 @@ S .col-center {
     width: 100%;
   }
 
+  .main .sect01 .sect01-top h2 {
+    font-size: 1.6em;
+  }
   .main .sect02 .sect02-01 .product-info {
     width: 100%;
     max-width: 450px;
@@ -1031,6 +1034,9 @@ S .col-center {
     display: block;
   }
 
+  .main .sect01 .sect01-top h2 {
+    font-size: 1.5em;
+  }
   .main .sect01 .sect01-top h3 {
     font-size: 1.25em;
   }
@@ -1074,6 +1080,9 @@ S .col-center {
   }
 }
 @media screen and (max-width: 428px) {
+  .main .sect01 .sect01-top h2 {
+    font-size: 1.5em;
+  }
   .main .sect01 .sect01-top h3 {
     font-size: 1.1em;
   }
@@ -1132,6 +1141,9 @@ S .col-center {
   .main .sect01 .sect01-01 .points .inner .text-bottom p {
     font-size: 1em;
   }
+  .main .sect01 .sect01-top h2 {
+    font-size: 1.5em;
+  }
   .main .sect04 .steps .inner .text-area .text-top h5 {
     font-size: 0.9em;
   }
@@ -1157,6 +1169,9 @@ S .col-center {
   }
   .main .sect01 .sect01-01 .points .inner .text-bottom p {
     font-size: 1em;
+  }
+  .main .sect01 .sect01-top h2 {
+    font-size: 1.25em;
   }
   .main .sect02 .sect02-01 h3 {
     font-size: 1.05em;
