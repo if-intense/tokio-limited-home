@@ -53,11 +53,19 @@ S .col-center {
 
 .top-banner {
   height: calc(100vh - 80px);
+  background: #0d688c;
 }
 .top-banner .inner {
   width: 100%;
   max-width: 840px;
   margin: 0 auto;
+  background: url("../images/tokio-home.png") no-repeat;
+  height: 100%;
+  background-position: center;
+  background-size: contain;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .mid-banner {

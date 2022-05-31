@@ -60,17 +60,18 @@ S .col-center {
 .top-banner {
     // height:100vh;
     height: calc(100vh - $headerHeight);
+    background:rgb(13, 104, 140);
     .inner {
         width: 100%;
         max-width: 840px;
         margin: 0 auto;
-        // background: url('../images/tokio-home.png') no-repeat;
-        // height: 100%;
-        // background-position: center;
-        // background-size: cover;
-        // display: flex;
-        // align-items: center;
-        // justify-content: center;
+        background: url('../images/tokio-home.png') no-repeat;
+        height: 100%;
+        background-position: center;
+        background-size: contain;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 }
 
