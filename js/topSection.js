@@ -5,7 +5,7 @@
 var vm = new Vue({
   el: "#topSection",
   data: {
-    message1: '保湿力がさらにアップ！<br>毛先まで内側から潤う質感へ',
+    message1: '<span>保湿力</span>がさらにアップ！<br>毛先まで内側から潤う質感へ',
     message2: '専用集中ケアパック',
     message3: 'TOKIO LIMITED HOME<br>3つのPoint',
     mainPoints: [
@@ -30,4 +30,3 @@ var vm = new Vue({
     ],
   },
 });
-

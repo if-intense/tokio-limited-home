@@ -215,8 +215,8 @@ S .col-center {
   line-height: 3em;
 }
 .main .sect01 .sect01-top h2 span {
-  font-size: 2em;
-  position: relative;
+  font-weight: bold;
+  text-decoration: underline;
 }
 .main .sect01 .sect01-top h3 {
   line-height: 2em;
