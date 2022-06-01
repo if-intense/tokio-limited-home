@@ -117,8 +117,8 @@ var vm = new Vue({
         {
             id:3,
             img: 'images/tokio-home_003-1.png',
-            body: 'クリーム状に白くなるまでしっかり伸ばしてから、中間から毛先中心に馴染ませます。',
-            alt: "LIMITED HOMEをクリーム状に",
+            body: '透明のジェル状になるまでしっかりと伸ばしてから中間から毛先中心に馴染ませます。',
+            alt: "LIMITED HOMEをジェル状に",
         },
         {
             id:4,
